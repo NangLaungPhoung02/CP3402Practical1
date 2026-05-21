@@ -140,13 +140,13 @@
 const allProducts = [
   { id:1, cat:'wine',    image:'redwine1.jpg',        region:'Wine · Bordeaux, France',   origin:'france',    name:'Château Margaux Reserve',   notes:'Dark fruit · cedar · silky tannins',       price:89,  badge:'Staff pick' },
   { id:2, cat:'spirits', image:'whisky1.jpeg',         region:'Whisky · Japan',            origin:'japan',     name:'Nikka From the Barrel',     notes:'Honeyed oak · dried fruit · spice',         price:72,  badge:'Best seller' },
-  { id:3, cat:'wine',    image:'champagne1.jpeg',      region:'Champagne · France',        origin:'france',    name:'Billecart-Salmon Brut',      notes:'Fine bubbles · brioche · crisp acidity',    price:95,  badge:null },
+  { id:3, cat:'wine',    image:'champagne2.jpeg',      region:'Champagne · France',        origin:'france',    name:'Billecart-Salmon Brut',      notes:'Fine bubbles · brioche · crisp acidity',    price:95,  badge:null },
   { id:4, cat:'spirits', image:'Hendricks1.jpeg',      region:'Gin · Scotland',            origin:'scotland',  name:"Hendrick's Midsummer",       notes:'Rose · cucumber · elderflower',             price:58,  badge:null },
-  { id:5, cat:'beer',    image:'hazy.jpeg',            region:'IPA · Singapore',           origin:'singapore', name:'Little Island Hazy IPA',     notes:'Tropical · citrus · hazy finish',           price:12,  badge:'Local fave' },
+  { id:5, cat:'beer',    image:'hazy1.jpeg',            region:'IPA · Singapore',           origin:'singapore', name:'Little Island Hazy IPA',     notes:'Tropical · citrus · hazy finish',           price:12,  badge:'Local fave' },
   { id:6, cat:'gifts',   image:'spiritsbox1.jpg',      region:'Gift set',                  origin:'all',       name:'Spirits Discovery Box',      notes:'4 × 200ml curated miniatures',              price:68,  badge:'Gift idea' },
   { id:7, cat:'wine',    image:'domainleflaive1.jpeg', region:'Wine · Burgundy, France',   origin:'france',    name:'Domaine Leflaive Puligny',   notes:'Mineral · citrus · elegant finish',         price:145, badge:null },
   { id:8, cat:'spirits', image:'mountgay.jpeg',        region:'Rum · Barbados',            origin:'all',       name:'Mount Gay XO',               notes:'Vanilla · dried apricot · toasted oak',     price:64,  badge:null },
-  { id:9, cat:'beer',    image:'brewdog.jpeg',         region:'Stout · Scotland',          origin:'scotland',  name:'BrewDog Milk Stout',         notes:'Chocolate · coffee · smooth body',          price:9,   badge:null },
+  { id:9, cat:'beer',    image:'brewdog2.jpeg',         region:'Stout · Scotland',          origin:'scotland',  name:'BrewDog Milk Stout',         notes:'Chocolate · coffee · smooth body',          price:9,   badge:null },
 ];
 
 let filtered = [...allProducts];
@@ -191,7 +191,7 @@ function renderGrid() {
     <div class="product-card">
       <div class="product-img">
         ${p.badge ? `<div class="product-badge">${p.badge}</div>` : ''}
-        <img src="css/images/${p.image}" alt="${p.name}" />
+        <img src="images/${p.image}" alt="${p.name}" />
       </div>
       <div class="product-info">
         <div class="product-region">${p.region}</div>
