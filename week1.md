@@ -2,11 +2,11 @@ Week 1
 
 Learning Activities & Resources
 
-This week I worked on building my website for the alcohol store project. I focused on adding product pages, images, and styling using CSS. I also searched online tutorials and guides to help me understand how to correctly link images and fix layout issues.
+This week I worked on building my website for the alcohol store project. I focused on design webpages and adding product pages, images, and styling. I also searched online tutorials and guides to help me understand how to correctly link images and fix layout issues.
 
 Estimated Hours of Explicit Learning Activity
 
-I estimated that I would spend around 5 hours of my own time this week on this subject, not including time I spent on the assignment. However, in reality, I spent approximately 2 full days working on the project.
+I estimated that I would spend around 5 hours of my own time this week on this subject,because it just about only front web, not including time I spent on the assignment. However, in reality, I spent approximately 2 full days working on the project.
 
 A large portion of this time was spent troubleshooting issues, especially with uploading and displaying images correctly on my website. I encountered problems with file paths, image folders, and CSS styling, which caused the images not to appear as expected. I had to repeatedly test, fix, and recheck my code to resolve these issues. In addition, I faced other technical problems while setting up pages and ensuring everything worked properly. Although this took much longer than I originally expected, it helped me gain more practical experience in debugging and understanding how different parts of a website are connected.
 
