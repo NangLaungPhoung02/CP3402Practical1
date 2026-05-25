@@ -1,9 +1,14 @@
 Week 1
 i have collected the idea and design fro theset various website and videos.
+
 https://www.themacallan.com/en-sg/experience-the-macallan/the-macallan-house-singapore 
+
 https://pilot-ds.com/
+
 https://www.theliquorshop.com.sg
+
 https://www.coursera.org/resources/web-development-learning-roadmap
+
 Learning Activities & Resources
 
 This week I worked on building my website for the alcohol store project. I focused on design webpages and adding product pages, images, and styling. I also searched online tutorials and guides to help me understand how to correctly link images and fix layout issues.
