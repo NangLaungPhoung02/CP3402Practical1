@@ -16,7 +16,6 @@ Resources used:
 * WordPress Beginner Tutorials: https://wordpress.org/support/
 * InfinityFree Free Hosting: https://www.infinityfree.com/
 * Pagelayer WordPress Editor resources and tutorials
-* YouTube WordPress installation and customisation tutorials
 * Class practical instructions and lecture materials
 * Matcha website images and drink inspiration from online resources
 
